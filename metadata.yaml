@@ -1,0 +1,33 @@
+_repo: Religious-Experience-and-Journal-of-Mrs-Jarena-Lee-Giving-an-Account-of-Her-Call-to-Preach-th__66953
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hoffy, A.
+    gutenberg_agent_id: '54050'
+    url: http://www.gutenberg.org/2009/agents/54050
+creator:
+  author:
+    agent_name: Lee, Jarena
+    gutenberg_agent_id: '54049'
+    url: http://www.gutenberg.org/2009/agents/54049
+description: ''
+gutenberg_issued: '2021-12-16'
+identifiers:
+  gutenberg: '66953'
+language: en
+pgterms:marc904: https://archive.org/details/religiousexperie00leej/page/n7/mode/2up
+pgterms:marc905: 20210504201119lee
+pgterms:marc906: '1836'
+pgterms:marc907: US
+production_note: Mary Glenn Krause and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United States :Jarena Lee,1836,pubdate 1849.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Religious Experience and Journal of Mrs. Jarena Lee: Giving an Account of
+  Her Call to Preach the Gospel'
+url: http://www.gutenberg.org/ebooks/66953
