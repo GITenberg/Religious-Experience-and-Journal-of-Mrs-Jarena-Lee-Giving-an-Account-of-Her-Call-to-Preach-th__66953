@@ -5,12 +5,17 @@ contributor:
     agent_name: Hoffy, A.
     gutenberg_agent_id: '54050'
     url: http://www.gutenberg.org/2009/agents/54050
+covers:
+- cover_type: archival
+  image_path: 66953-h/images/cover.jpg
 creator:
   author:
     agent_name: Lee, Jarena
     gutenberg_agent_id: '54049'
     url: http://www.gutenberg.org/2009/agents/54049
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66953#Religious-Experience-and-Journal-of-Mrs-Jarena-Lee-Giving-an-Account-of-Her-Call-to-Preach-th_
 gutenberg_issued: '2021-12-16'
 identifiers:
   gutenberg: '66953'
